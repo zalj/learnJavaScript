@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>学习JavaScript</title>
+</head>
+<body>
+<p>请输入数字。如果输入的不是数字，浏览器会弹出提示框。</p>
+<input id="demo" type="text">
+<script>
+    function myFunction() {
+        var x=document.getElementById("demo").value;
+        if(x==""||isNaN(x)){
+            alert("不是数字")
+        }
+    }
+</script>
+<button type="button" onclick="myFunction()">点击这里</button>
+</body>
+</html>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ab5dd85-7f38-4700-b21d-e9662b83f73e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="9ab5dd85-7f38-4700-b21d-e9662b83f73e" name="Default" comment="fix x and document typo mistake">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptBase/Base/ChangeHtmlElementContent.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBase/Base/ChangeHtmlElementContent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptBase/Base/DirectWriteIntoInputStream.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBase/Base/DirectWriteIntoInputStream.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptBase/Base/ChangeHtmlElementContent.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBase/Base/html/ChangeHtmlElementContent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptBase/Base/DirectWriteIntoInputStream.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBase/Base/html/DirectWriteIntoInputStream.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptBase/Base/MyFirstJavaScriptProgram.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBase/Base/html/MyFirstJavaScriptProgram.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScriptBase/Base/onclickAndAlert.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBase/Base/html/onclickAndAlert.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,22 +27,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
+          <entry key="html" value="11" />
+          <entry key="js" value="1" />
+          <entry key="profile" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="11" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="2" />
+          <entry key="html" value="871" />
+          <entry key="js" value="69" />
+          <entry key="profile" value="10" />
+          <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="871" />
+          <entry key="JavaScript" value="69" />
+          <entry key="PLAIN_TEXT" value="54" />
         </counts>
       </usages-collector>
     </session>
@@ -49,19 +59,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/ChangeHtmlElementContent.html">
+        <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/.profile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="216">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/OutputToConsole.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/DirectWriteIntoInputStream.html">
+        <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="216">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -88,6 +107,17 @@
         <option value="$PROJECT_DIR$/Base/onclickAndAlert.html" />
         <option value="$PROJECT_DIR$/JavaScriptBase/Base/ChangeHtmlElementContent.html" />
         <option value="$PROJECT_DIR$/JavaScriptBase/Base/DirectWriteIntoInputStream.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Base/ChangeHtmlStyle.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Base/ValidateInput.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Base/ChangeHtmlPicture.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Base/MyScript.js" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Base/html/UseOutJavaScript.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/profile" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/ChangePhaseContent.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/DirectWriteIntoFile.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/Window_alert.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/OutputToConsole.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html" />
       </list>
     </option>
   </component>
@@ -97,10 +127,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="width" value="978" />
-    <option name="height" value="1050" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -124,6 +157,19 @@
               <item name="learnJavaScript" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScriptBase" type="462c0819:PsiDirectoryNode" />
               <item name="Base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnJavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnJavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptBase" type="462c0819:PsiDirectoryNode" />
+              <item name="Output_SyntaxAndStatment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnJavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnJavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScriptBase" type="462c0819:PsiDirectoryNode" />
+              <item name="Output_SyntaxAndStatment" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,6 +199,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\zz562334786\eclipse-workspace\learnJavaScript\JavaScriptBase\Output_SyntaxAndStatment" />
+      <recent name="D:\Users\zz562334786\eclipse-workspace\learnJavaScript\JavaScriptBase\Base\html" />
+      <recent name="D:\Users\zz562334786\eclipse-workspace\learnJavaScript\JavaScriptBase\Base\js" />
       <recent name="D:\study\javascriptExercise\JavaScriptBase" />
     </key>
   </component>
@@ -168,21 +217,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.DirectWriteIntoInputStream.html">
-    <configuration name="ChangeHtmlElementContent.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Base/ChangeHtmlElementContent.html">
+  <component name="RunManager" selected="JavaScript Debug.NumberConstant.html">
+    <configuration name="ChangePhaseContent.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/ChangePhaseContent.html">
       <method v="2" />
     </configuration>
-    <configuration name="DirectWriteIntoInputStream.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Base/DirectWriteIntoInputStream.html">
+    <configuration name="DirectWriteIntoFile.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/DirectWriteIntoFile.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="NumberConstant.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="OutputToConsole.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/OutputToConsole.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="Window_alert.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/Window_alert.html">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.ChangeHtmlElementContent.html" />
-      <item itemvalue="JavaScript Debug.DirectWriteIntoInputStream.html" />
+      <item itemvalue="JavaScript Debug.Window_alert.html" />
+      <item itemvalue="JavaScript Debug.ChangePhaseContent.html" />
+      <item itemvalue="JavaScript Debug.DirectWriteIntoFile.html" />
+      <item itemvalue="JavaScript Debug.OutputToConsole.html" />
+      <item itemvalue="JavaScript Debug.NumberConstant.html" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.DirectWriteIntoInputStream.html" />
-        <item itemvalue="JavaScript Debug.ChangeHtmlElementContent.html" />
+        <item itemvalue="JavaScript Debug.NumberConstant.html" />
+        <item itemvalue="JavaScript Debug.OutputToConsole.html" />
+        <item itemvalue="JavaScript Debug.DirectWriteIntoFile.html" />
+        <item itemvalue="JavaScript Debug.ChangePhaseContent.html" />
+        <item itemvalue="JavaScript Debug.Window_alert.html" />
       </list>
     </recent_temporary>
   </component>
@@ -197,18 +261,26 @@
       <option name="presentableId" value="Default" />
       <updated>1538012981963</updated>
       <workItem from="1538012983469" duration="4193000" />
-      <workItem from="1538138702198" duration="584000" />
+      <workItem from="1538138702198" duration="5537000" />
     </task>
+    <task id="LOCAL-00001" summary="fix x and document typo mistake">
+      <created>1538139353703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538139353703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4777000" />
+    <option name="totallyTimeSpent" value="9730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20380817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21297602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -219,9 +291,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32933334" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32933334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -230,36 +302,127 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix x and document typo mistake" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix x and document typo mistake" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Base/MyFirstJavaScriptProgram.js" />
-    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/MyFirstJavaScriptProgram.html">
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/html/MyFirstJavaScriptProgram.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/onclickAndAlert.html">
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/html/onclickAndAlert.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/ChangeHtmlElementContent.html">
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/html/DirectWriteIntoInputStream.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="189">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/DirectWriteIntoInputStream.html">
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/html/ChangeHtmlElementContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/html/ChangeHtmlStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/js/MyScript.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/html/UseOutJavaScript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/html/ChangeHtmlPicture.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/html/ValidateInput.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/DirectWriteIntoFile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/ChangePhaseContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/Window_alert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/.profile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/OutputToConsole.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
