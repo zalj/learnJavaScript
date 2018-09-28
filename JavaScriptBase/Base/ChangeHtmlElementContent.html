@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>学习JavaScript</title>
+</head>
+<body>
+    <h1>Change HTML Element Content</h1>
+    <p id="demo">
+        JavaScript能够改变 HTML 元素的内容。
+    </p>
+    <script>
+        function myFunction() {
+            x=document.getElementById("demo");  //找到元素
+            x.innerText="Hello JavaScript!";    //改变内容
+        }
+    </script>
+    <button type="button" onclick="myFunction()">点击这里</button>
+</body>
+</html>
