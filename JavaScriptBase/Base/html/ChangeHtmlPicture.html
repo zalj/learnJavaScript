@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>学习 JavaScript</title>
+</head>
+<body>
+<script>
+    function changeImage() {
+        s = document.getElementById('myimage')
+        s.src = s.src.match('bulboff')?"http://www.runoob.com/images/pic_bulbon.gif":"http://www.runoob.com/images/pic_bulboff.gif";
+    }
+</script>
+<img id="myimage" onclick="changeImage()" src="http://www.runoob.com/images/pic_bulboff.gif" width="100" height="180">
+
+</body>
+</html>
