@@ -3,15 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9ab5dd85-7f38-4700-b21d-e9662b83f73e" name="Default" comment="fix x and document typo mistake">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptBase/Base/ChangeHtmlElementContent.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBase/Base/html/ChangeHtmlElementContent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptBase/Base/DirectWriteIntoInputStream.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBase/Base/html/DirectWriteIntoInputStream.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptBase/Base/MyFirstJavaScriptProgram.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBase/Base/html/MyFirstJavaScriptProgram.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScriptBase/Base/onclickAndAlert.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScriptBase/Base/html/onclickAndAlert.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,29 +55,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/.profile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="OutputToConsole.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/OutputToConsole.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="330">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name=".profile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/.profile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringType.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/StringType.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberType.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/NumberType.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayIterator.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/ArrayIterator.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectRef.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/ObjectRef.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberConstant.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="88">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -118,6 +151,11 @@
         <option value="$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/Window_alert.html" />
         <option value="$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/OutputToConsole.html" />
         <option value="$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/.profile" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/StringType.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/NumberType.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/ArrayIterator.html" />
+        <option value="$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/ObjectRef.html" />
       </list>
     </option>
   </component>
@@ -127,9 +165,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
     <option name="height" value="920" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -144,31 +185,25 @@
         <subPane>
           <expand>
             <path>
-              <item name="learnJavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnJavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="learnJvascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnJvascript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learnJavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnJavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="learnJvascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnJvascript" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScriptBase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learnJavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnJavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="learnJvascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnJvascript" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScriptBase" type="462c0819:PsiDirectoryNode" />
-              <item name="Base" type="462c0819:PsiDirectoryNode" />
+              <item name="DataType_ObjectAndFunction" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learnJavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnJavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="learnJvascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnJvascript" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScriptBase" type="462c0819:PsiDirectoryNode" />
-              <item name="Output_SyntaxAndStatment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnJavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScriptBase" type="462c0819:PsiDirectoryNode" />
-              <item name="Output_SyntaxAndStatment" type="462c0819:PsiDirectoryNode" />
+              <item name="DataType_ObjectAndFunction" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -195,10 +230,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\learnJvascript\JavaScriptBase\DataType_ObjectAndFunction\html" />
       <recent name="D:\Users\zz562334786\eclipse-workspace\learnJavaScript\JavaScriptBase\Output_SyntaxAndStatment" />
       <recent name="D:\Users\zz562334786\eclipse-workspace\learnJavaScript\JavaScriptBase\Base\html" />
       <recent name="D:\Users\zz562334786\eclipse-workspace\learnJavaScript\JavaScriptBase\Base\js" />
@@ -217,36 +253,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.NumberConstant.html">
-    <configuration name="ChangePhaseContent.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/ChangePhaseContent.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="DirectWriteIntoFile.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/DirectWriteIntoFile.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="NumberConstant.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="OutputToConsole.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/OutputToConsole.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="Window_alert.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/Window_alert.html">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.ArrayIterator.html">
+    <configuration name="ArrayIterator.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJvascript/JavaScriptBase/DataType_ObjectAndFunction/html/ArrayIterator.html" />
+    <configuration name="DirectWriteIntoFile.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/DirectWriteIntoFile.html" />
+    <configuration name="NumberConstant.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html" />
+    <configuration name="NumberType.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJvascript/JavaScriptBase/DataType_ObjectAndFunction/html/NumberType.html" />
+    <configuration name="OutputToConsole.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/learnJavaScript/JavaScriptBase/Output_SyntaxAndStatment/html/OutputToConsole.html" />
     <list>
-      <item itemvalue="JavaScript Debug.Window_alert.html" />
-      <item itemvalue="JavaScript Debug.ChangePhaseContent.html" />
       <item itemvalue="JavaScript Debug.DirectWriteIntoFile.html" />
       <item itemvalue="JavaScript Debug.OutputToConsole.html" />
       <item itemvalue="JavaScript Debug.NumberConstant.html" />
+      <item itemvalue="JavaScript Debug.NumberType.html" />
+      <item itemvalue="JavaScript Debug.ArrayIterator.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ArrayIterator.html" />
+        <item itemvalue="JavaScript Debug.NumberType.html" />
         <item itemvalue="JavaScript Debug.NumberConstant.html" />
         <item itemvalue="JavaScript Debug.OutputToConsole.html" />
         <item itemvalue="JavaScript Debug.DirectWriteIntoFile.html" />
-        <item itemvalue="JavaScript Debug.ChangePhaseContent.html" />
-        <item itemvalue="JavaScript Debug.Window_alert.html" />
       </list>
     </recent_temporary>
   </component>
@@ -262,6 +288,7 @@
       <updated>1538012981963</updated>
       <workItem from="1538012983469" duration="4193000" />
       <workItem from="1538138702198" duration="5537000" />
+      <workItem from="1538241706578" duration="1478000" />
     </task>
     <task id="LOCAL-00001" summary="fix x and document typo mistake">
       <created>1538139353703</created>
@@ -274,33 +301,36 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9730000" />
+    <option name="totallyTimeSpent" value="11208000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21297602" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17239101" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32933334" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32933334" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32933334" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.profile" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -320,6 +350,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix x and document typo mistake" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/.profile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/OutputToConsole.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Base/MyFirstJavaScriptProgram.js" />
     <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/html/MyFirstJavaScriptProgram.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -355,9 +406,6 @@
           <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/js/MyScript.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScriptBase/Base/html/UseOutJavaScript.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -398,31 +446,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#body#0;n#html#0;n#!!top" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/.profile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="152">
           <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/OutputToConsole.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="330">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScriptBase/Output_SyntaxAndStatment/html/NumberConstant.html">
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/.profile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="30">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/StringType.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/NumberType.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/ArrayIterator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScriptBase/DataType_ObjectAndFunction/html/ObjectRef.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
