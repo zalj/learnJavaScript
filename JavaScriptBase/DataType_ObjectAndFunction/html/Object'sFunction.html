@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>学习JavaScript</title>
+</head>
+<body>
+
+<p>创建和使用对象方法。</p>
+<p>对象方法作为一个函数定义存储在对象属性中。</p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+<script>
+    var person = {
+        firstName: "张",
+        lastName : "振",
+        id : 5566,
+        fullName : function () {
+            return this.firstName + " " + this.lastName;
+        }
+    };
+    document.getElementById("demo2").innerHTML = "不加括号输出fullName方法体<br>" + person.fullName;
+    document.getElementById("demo1").innerHTML = "加括号输出方法返回结果<br>" + person.fullName();
+</script>
+
+</body>
+</html>

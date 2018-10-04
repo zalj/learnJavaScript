@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>学习JavaScript</title>
+</head>
+<body>
+    <p>创建JavaScript对象</p>
+    <p id="demo">123</p>
+    <script>
+        /**
+         * 定义 JavaScript 对象可以跨越多行，空格跟换行不是必须的：
+         */
+        var person={
+            firstName   :   "John",
+            lastName    :   "Doe",
+            age         :   12,
+            eyeColor    :   "blue"
+        };
+        document.getElementById("demo").innerHTML = person.firstName + " 现在 " + person.age + " 岁.";
+    </script>
+</body>
+</html>
